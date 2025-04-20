@@ -37,8 +37,8 @@ Created an interactive Tableau dashboard to visualize:
 ## 📁 File Structure
 - `TaylorSwiftEDA.ipynb`: Python analysis notebook
 - `data/`: Raw and cleaned Spotify audio features
-- `visuals/`: Plots and charts (Python + Tableau snapshots)
-- `Tableau/`: Packaged workbook or screenshots (optional)
+- `visuals/`: Plots and charts
+- `Tableau/`: Packaged workbook or screenshots
 
 ## 👨‍💻 Author
 Deependra  
