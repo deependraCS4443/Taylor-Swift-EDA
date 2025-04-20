@@ -23,7 +23,6 @@ Created an interactive Tableau dashboard to visualize:
 - Danceability vs. energy scatter plots
 - Album evolution over time
 
-🔗 *(Add Tableau Public link here, if published)*
 
 ## 📈 Key Insights
 - Her earlier albums showed higher acousticness and lower energy
